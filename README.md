@@ -1,6 +1,6 @@
 # ONScripter Plus+
 
-<img src="https://github.com/Xposed-Modules-Repo/com.ws.onscripterplus/raw/master/image/ic_launcher.png" width="256" alt="ONScripter Plus" />
+<img src="https://github.com/Xposed-Modules-Repo/com.ws.onscripterplus/raw/master/images/ic_launcher.png" width="256" alt="ONScripter Plus" />
 
 ## 功能
 
@@ -17,12 +17,12 @@
 ## 效果对比
 
 #### xposed
-<img src="https://github.com/Xposed-Modules-Repo/com.ws.onscripterplus/raw/master/image/2-1.jpg" width="300">
-<img src="https://github.com/Xposed-Modules-Repo/com.ws.onscripterplus/raw/master/image/2-2.jpg" width="300">
+<img src="https://github.com/Xposed-Modules-Repo/com.ws.onscripterplus/raw/master/images/2-1.jpg" width="300">
+<img src="https://github.com/Xposed-Modules-Repo/com.ws.onscripterplus/raw/master/images/2-2.jpg" width="300">
 
 #### 原软件
-<img src="https://github.com/Xposed-Modules-Repo/com.ws.onscripterplus/raw/master/image/1-1.jpg" width="300">
-<img src="https://github.com/Xposed-Modules-Repo/com.ws.onscripterplus/raw/master/image/1-2.jpg" width="300">
+<img src="https://github.com/Xposed-Modules-Repo/com.ws.onscripterplus/raw/master/images/1-1.jpg" width="300">
+<img src="https://github.com/Xposed-Modules-Repo/com.ws.onscripterplus/raw/master/images/1-2.jpg" width="300">
 
 
 
