@@ -1,6 +1,6 @@
 # ONScripter Plus+
 
-<img src="./image/ic_launcher.png" width="256" alt="ONScripter Plus" />
+<img src="https://github.com/Xposed-Modules-Repo/com.ws.onscripterplus/raw/master/image/ic_launcher.png" width="256" alt="ONScripter Plus" />
 
 ## 功能
 
