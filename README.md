@@ -17,12 +17,12 @@
 ## 效果对比
 
 #### xposed
-<img src="./image/2-1.jpg" width="300">
-<img src="./image/2-2.jpg" width="300">
+<img src="https://github.com/Xposed-Modules-Repo/com.ws.onscripterplus/raw/master/image/2-1.jpg" width="300">
+<img src="https://github.com/Xposed-Modules-Repo/com.ws.onscripterplus/raw/master/image/2-2.jpg" width="300">
 
 #### 原软件
-<img src="./image/1-1.jpg" width="300">
-<img src="./image/1-2.jpg" width="300">
+<img src="https://github.com/Xposed-Modules-Repo/com.ws.onscripterplus/raw/master/image/1-1.jpg" width="300">
+<img src="https://github.com/Xposed-Modules-Repo/com.ws.onscripterplus/raw/master/image/1-2.jpg" width="300">
 
 
 
